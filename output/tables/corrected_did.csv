@@ -1,0 +1,13 @@
+spec,term,estimate,se_cluster_CR1,p_cluster_CR1,n,controls,n_sectors,p_randomization
+log_employment,treat_suspended,-0.0125229614971735,0.034302993805376,0.729993517403161,54,All other sectors,6,1
+log_employment,treat_reinstated,-0.00604998747596084,0.0988695070162159,0.953577246710521,54,All other sectors,6,1
+hours,treat_suspended,-0.401800000000004,0.640278327538723,0.557846173944536,54,All other sectors,6,1
+hours,treat_reinstated,-0.819166666666692,0.802210865003602,0.35402891775671,54,All other sectors,6,0.833333333333333
+informal_rate,treat_suspended,3.80942,1.51464808915902,0.0534967884941209,54,All other sectors,6,0.333333333333333
+informal_rate,treat_reinstated,4.80041666666675,3.79831128337132,0.262009112801494,54,All other sectors,6,0.5
+log_employment,treat_suspended,0.00216081625264635,0.0389852723249087,0.958456727244841,45,Excluding mining & utilities,5,1
+log_employment,treat_reinstated,0.0323031329639679,0.115584127673392,0.793734394852352,45,Excluding mining & utilities,5,1
+hours,treat_suspended,0.0322499999999968,0.519528125408316,0.953480666320745,45,Excluding mining & utilities,5,0.8
+hours,treat_reinstated,-0.264166666666666,0.628935583483156,0.696049709219562,45,Excluding mining & utilities,5,0.8
+informal_rate,treat_suspended,2.71778750000001,1.09346315470129,0.0678113509357244,45,Excluding mining & utilities,5,0.4
+informal_rate,treat_reinstated,1.82847916666668,2.10992448765903,0.435046274385917,45,Excluding mining & utilities,5,0.8

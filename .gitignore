@@ -1,0 +1,12 @@
+# Raw and derived data are not tracked (large files; re-download instructions in README).
+data/raw/*
+data/derived/*
+!data/raw/.gitkeep
+!data/derived/.gitkeep
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store

@@ -1,0 +1,55 @@
+treated,year,estimate
+Agriculture,2010,0
+Agriculture,2011,0.00199066410653114
+Agriculture,2013,-0.109643127201107
+Agriculture,2014,-0.172389696849405
+Agriculture,2015,-0.106778237417252
+Agriculture,2016,-0.201219851918589
+Agriculture,2017,-0.278034110900862
+Agriculture,2018,-0.321485031336144
+Agriculture,2019,-0.314773512329591
+Construction,2010,0
+Construction,2011,0.0568718649010096
+Construction,2013,0.0142460111465442
+Construction,2014,0.0538838734782762
+Construction,2015,0.0757432036356821
+Construction,2016,0.159989583765963
+Construction,2017,0.203522255236353
+Construction,2018,0.251657477119914
+Construction,2019,0.209430997562828
+Manufacturing,2010,0
+Manufacturing,2011,-0.00554785492923992
+Manufacturing,2013,-0.038385747388319
+Manufacturing,2014,-0.0143632129393478
+Manufacturing,2015,0.0149239935358792
+Manufacturing,2016,-0.0192419857648391
+Manufacturing,2017,0.0398967523732388
+Manufacturing,2018,-0.0404762030869786
+Manufacturing,2019,-0.0175705117141435
+Mining & utilities,2010,0
+Mining & utilities,2011,-0.0892947346479345
+Mining & utilities,2013,0.250657073247486
+Mining & utilities,2014,0.18368302080323
+Mining & utilities,2015,-0.0149225125994762
+Mining & utilities,2016,0.034810780689366
+Mining & utilities,2017,0.156857839262069
+Mining & utilities,2018,0.223503905082861
+Mining & utilities,2019,0.175553182475512
+Public admin & other services,2010,0
+Public admin & other services,2011,0.0432933467592152
+Public admin & other services,2013,-0.109241640615544
+Public admin & other services,2014,-0.040927242248937
+Public admin & other services,2015,-0.0158769291385526
+Public admin & other services,2016,-0.018736389205861
+Public admin & other services,2017,-0.170548568844964
+Public admin & other services,2018,-0.188477134242896
+Public admin & other services,2019,-0.148483328625879
+"Trade, transport & business services",2010,0
+"Trade, transport & business services",2011,-0.00731328618958013
+"Trade, transport & business services",2013,-0.00763256918905133
+"Trade, transport & business services",2014,-0.00988674224380739
+"Trade, transport & business services",2015,0.0469104819837243
+"Trade, transport & business services",2016,0.0443978624339546
+"Trade, transport & business services",2017,0.0483058328741726
+"Trade, transport & business services",2018,0.0752769864632388
+"Trade, transport & business services",2019,0.0958431726312774
